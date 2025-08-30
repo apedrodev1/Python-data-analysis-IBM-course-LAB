@@ -26,4 +26,3 @@ else:
     print (f'Que pena! Você errou... A resposta correta é a letra B')
 
 print(f'O Quiz acabou... Pontuação: {score}/2')
-       
