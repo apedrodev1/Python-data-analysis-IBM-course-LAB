@@ -1,3 +1,4 @@
-Pedro - 8.5
+Pedro - 10.0
 Luis - 5.2
 Alex - 9.0
+Maria - 7.5
